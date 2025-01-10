@@ -1,1 +1,1 @@
-# password-generator
+password-generator - это минималистичный генератор паролей.
